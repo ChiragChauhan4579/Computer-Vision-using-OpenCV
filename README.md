@@ -1,4 +1,8 @@
-# Projects:
+# Type of Project:
+* [Hand Tracking](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#hand-tracking)
+* [Pose estimation]
+
+# Hand Tracking:
 * [Finger counter](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#finger-counter)
 * [Volume control using gesture](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#volume-control-using-gesture)
 
