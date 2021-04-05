@@ -1,6 +1,6 @@
 # Type of Project:
 * [Hand Tracking](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#hand-tracking)
-* [Pose estimation]
+* [Pose Estimation](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#pose-estimation)
 
 # Hand Tracking:
 * [Finger counter](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#finger-counter)
@@ -41,3 +41,5 @@ This project controls the volume using hand gestures.
 * For all the landmark ids see the image given in finger counter project.
 
 ![gesture-control](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Hand-Tracking-Projects/Video2.gif)
+
+# Pose Estimation
