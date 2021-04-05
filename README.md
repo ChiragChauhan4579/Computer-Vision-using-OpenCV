@@ -27,3 +27,10 @@ This project controls the volume using hand gestures
 * OpenCV
 * Python 3.7+
 * mediapipe
+* numpy
+* pycaw
+
+## About Project
+* The Handtracker file consists of a class Handdetector
+* The class has two class methods for detecting hands i.e. findHands and for finding the positional landmarks i.e. findPosition 
+* The gesture-volume controller file contains the module to control volume using gestures. The pycaw is a library through which we can connect to our audio utilities i.e. to change our volume
