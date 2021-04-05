@@ -1,5 +1,5 @@
 # Projects:
-* Finger counter
+* [Finger counterhttps](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#finger-counter)
 * Volume control using gesture
 
 # Finger counter
