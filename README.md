@@ -1,9 +1,9 @@
 # Projects:
 * [Finger counter](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#finger-counter)
-* Volume control using gesture
+* [Volume control using gesture](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#volume-control-using-gesture)
 
 # Finger counter
-A computer vision project made using OpenCV(Python) and mediapipe libraries. It counts the number of fingers in the video captured by the webcam/video given.
+This project counts the number of fingers in the video captured by the webcam/video given.
 
 ## Requirements
 * OpenCV
@@ -18,3 +18,12 @@ A computer vision project made using OpenCV(Python) and mediapipe libraries. It 
 ![landmark](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Hand-Tracking-Projects/hand_landmarks.png)
 
 ![finger-counter](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Hand-Tracking-Projects/Video.gif)
+
+
+# Volume control using gesture
+This project controls the volume using hand gestures
+
+## Requirements
+* OpenCV
+* Python 3.7+
+* mediapipe
