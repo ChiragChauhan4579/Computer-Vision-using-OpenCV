@@ -1,10 +1,13 @@
 # Type of Project:
 * [Hand Tracking](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#hand-tracking)
-* [Pose Estimation](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#pose-estimation)
+* [Pose Estimation](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#pose-tracking)
 
 # Hand Tracking:
 * [Finger counter](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#finger-counter)
 * [Volume control using gesture](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#volume-control-using-gesture)
+
+# Pose Tracking:
+* [Pose Estimation](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#pose-estimation)
 
 # Finger counter
 This project counts the number of fingers in the video captured by the webcam/video given.
@@ -43,3 +46,17 @@ This project controls the volume using hand gestures.
 ![gesture-control](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Hand-Tracking-Projects/Video2.gif)
 
 # Pose Estimation
+This project determines the pose of the person in image/video.
+
+## Requirements
+* OpenCV
+* Python 3.7+
+* mediapipe
+
+## About Project
+* The Posetracker file consists of a class posedetector.
+* The class has a class method findposition for detecting pose of the person in the image/video. 
+* The landmarks for the pose are given in the image below
+
+![pose-landmark](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Pose-Estimation-Projects/pose_tracking_full_body_landmarks.png)
+
