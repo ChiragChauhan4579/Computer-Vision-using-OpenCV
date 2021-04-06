@@ -24,7 +24,7 @@ class poseDetector():
 def main():
     pTime = 0
     cTime = 0
-    cap = cv2.VideoCapture('C:/Users/Chirag Chauhan/Downloads/Running_09_Videvo.mov')
+    cap = cv2.VideoCapture('filename or 0 for video capturing through webcam')
     detector = poseDetector()
     while True:
         success, img = cap.read()
