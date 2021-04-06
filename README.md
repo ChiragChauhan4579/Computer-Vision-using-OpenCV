@@ -78,3 +78,11 @@ This project detects the face of the person.
 ![Face detection](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Face-Detection-Projects/Video4.gif)
 
 # Face Mesh Detector
+This project detects the 468 facial landmarks of the person.
+
+## Requirements
+* OpenCV
+* Python 3.7+
+* mediapipe
+
+![Face detection](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Face-Detection-Projects/Video5.gif)
