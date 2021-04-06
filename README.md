@@ -65,7 +65,7 @@ This project determines the pose of the person in image/video.
 
 ![pose-landmark](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Pose-Estimation-Projects/pose_tracking_full_body_landmarks.png)
 
-![pose](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Pose-Estimation-Projects/Video3.gif)
+![pose](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Pose-Estimation-Projects/Video6.gif)
 
 # Face Detector
 This project detects the face of the person.
