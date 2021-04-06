@@ -10,7 +10,7 @@
 # Pose Tracking:
 * [Pose Estimation](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#pose-estimation)
 
-# Face Detection
+# Face Detection:
 * [Face Detector](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#face-detector)
 * [Face Mesh Detector](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#face-mesh-detector)
 
@@ -68,4 +68,21 @@ This project determines the pose of the person in image/video.
 ![pose](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Pose-Estimation-Projects/Video3.gif)
 
 # Face Detector
+This project detects the face of the person.
+
+## Requirements
+* OpenCV
+* Python 3.7+
+* mediapipe
+
+![Face detection](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Face-Detection-Projects/Video4.gif)
+
 # Face Mesh Detector
+This project detects the 468 facial landmarks of the person.
+
+## Requirements
+* OpenCV
+* Python 3.7+
+* mediapipe
+
+![Face detection](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Face-Detection-Projects/Video5.gif)
