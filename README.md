@@ -10,7 +10,7 @@
 # Pose Tracking:
 * [Pose Estimation](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#pose-estimation)
 
-# Face Detection
+# Face Detection:
 * [Face Detector](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#face-detector)
 * [Face Mesh Detector](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#face-mesh-detector)
 
