@@ -68,4 +68,12 @@ This project determines the pose of the person in image/video.
 ![pose](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Pose-Estimation-Projects/Video3.gif)
 
 # Face Detector
+This project detects the face of the person.
+
+## Requirements
+* OpenCV
+* Python 3.7+
+* mediapipe
+![Face detection](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Face-Detection-Projects/Video4.gif)
+
 # Face Mesh Detector
