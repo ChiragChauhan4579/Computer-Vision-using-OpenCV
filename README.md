@@ -1,6 +1,7 @@
 # Type of Project:
 * [Hand Tracking](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#hand-tracking)
 * [Pose Tracking](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#pose-tracking)
+* [Face Detection](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#pose-tracking)
 
 # Hand Tracking:
 * [Finger counter](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#finger-counter)
@@ -8,6 +9,10 @@
 
 # Pose Tracking:
 * [Pose Estimation](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#pose-estimation)
+
+# Face Detection
+* [Face Detector](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#face-detector)
+* [Face Mesh Detector](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/README.md#face-mesh-detector)
 
 # Finger counter
 This project counts the number of fingers in the video captured by the webcam/video given.
@@ -60,3 +65,7 @@ This project determines the pose of the person in image/video.
 
 ![pose-landmark](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Pose-Estimation-Projects/pose_tracking_full_body_landmarks.png)
 
+![pose](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV/blob/main/Pose-Estimation-Projects/Video3.gif)
+
+# Face Detector
+# Face Mesh Detector
